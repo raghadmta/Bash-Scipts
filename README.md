@@ -1,6 +1,6 @@
 # Shell-Scipts
 ---
-These are a Collocation of Shell Scripts basics to perform logical operations using loops, conditionals and function calls 
+These are a Collocation of Shell Scripts basics to perform logical operations using loops, conditions and function calls 
 
 
 - [FuncinFunc.sh ](https://github.com/raghadmta/Shell-Scipts/blob/f44e69e4212bc6b3bf1e94ed9025775faeda1f22/FuncinFunc.sh) -> Call function1 and then call function2 from inside the function1 in Linux Script.
