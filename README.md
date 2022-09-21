@@ -19,4 +19,4 @@ These are a Collocation of Shell Scripts basics to perform logical operations us
 
 ---
 
-### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022
+###### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022
