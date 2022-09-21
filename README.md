@@ -18,3 +18,4 @@ These are a Collocation of Shell Scripts basics to perform logical operations us
 - [calculator.sh](https://github.com/raghadmta/Shell-Scipts/blob/f44e69e4212bc6b3bf1e94ed9025775faeda1f22/calculator.sh) -> a Calculator using bash scripting.
 
 
+### This project was part of Saudi Digital Acadmy's ( SDA ) DevOps BootCamp 2022
